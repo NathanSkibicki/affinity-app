@@ -1,0 +1,13 @@
+.header_logo{
+    object-fit: contain;
+    height: 50px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
